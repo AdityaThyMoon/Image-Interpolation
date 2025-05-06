@@ -1,4 +1,4 @@
-# Project where I recreate image interpolation from scratch, as well as tried some other cool image processing techniques
+# Project where I recreate image interpolation from scratch, as well as tried some other image processing techniques
 ### Some cool results below
 
 # Einstein. This image's colour is intentionally downtuned
