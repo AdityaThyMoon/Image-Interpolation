@@ -3,7 +3,7 @@
 
 # Einstein. This image's colour is intentionally downtuned
 ![image](https://github.com/user-attachments/assets/861ac508-2d8b-41af-8b8c-d0f4b46874c5)
-After histogram equalization:
+# After histogram equalization, it's fixed:
 ![einstein_equalized](https://github.com/user-attachments/assets/24999d91-aa09-4e6e-b72e-2194bfcc5412)
 
 # Testing some filters
